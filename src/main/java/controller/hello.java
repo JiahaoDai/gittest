@@ -8,7 +8,6 @@ public class hello {
         System.out.println("hellp4");
         System.out.println("hot-fix commit1");
         System.out.println("master commit");
-        System.out.println("hot fix 2");
-        System.out.println("hot fix 2");
+        System.out.println("pull");
     }
 }
