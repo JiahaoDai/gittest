@@ -1,5 +1,5 @@
 data:
   env: localhost-dev-edit888
   user:
-    username: jiahao
+    username: jiahao-test
     password: password-dev
